@@ -3,7 +3,7 @@
 
 int main()
 {
- 	printf("keerthi is bad gal\n");
+ 	printf("keerthi is good gal\n");
  	return 0;
 }
 
